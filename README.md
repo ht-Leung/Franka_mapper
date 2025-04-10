@@ -75,10 +75,9 @@
 ## 联系作者
 
 - **Author**: Haotian Liang (htLiang)
-- **Email**: haotianliang10@1gmail.com
+- **Email**: haotianliang10@gmail.com
 
-## 引用
-如果觉得本项目对你有帮助，欢迎引用Xiangjian Li的相关论文：
+## 如果觉得本项目对你有帮助，欢迎引用Xiangjian Li的相关论文：
 ---
 ```tex
 @ARTICLE{9606543,
